@@ -37,7 +37,7 @@
   <distributionManagement>
     <repository>
       <id>s3-repo</id>
-      <url>s3://firstproject123/maven-repo</url>
+      <url>s3://bucketsmc1/maven-repo</url>
     </repository>
   </distributionManagement>
   
